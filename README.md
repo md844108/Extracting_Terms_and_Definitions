@@ -1,9 +1,9 @@
 # Extracting_Terms_and_Definitions
 ## AIM : 
-Aim : Build a custom GPT-based chatbot using custom knowledge under 10 minutes.
+Aim : We will go through the design process of using Llama Index to extract terms and definitions from text, while allowing users to query those terms later. 
 
 ## References
-  https://towardsdatascience.com/how-i-built-a-custom-gpt-based-chatbot-in-under-10-minutes-with-llamaindex-2102f0173420
+  https://gpt-index.readthedocs.io/en/latest/guides/tutorials/terms_definitions_tutorial.html
 
 ## Requirement OpenAI key
 Open OpenAI website(https://platform.openai.com/account/api-keys) and create key , It will use in code.
